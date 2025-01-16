@@ -1,0 +1,10 @@
+id,name,type,launch_date,company_id
+1,Falcon 9,Launcher,2010-06-04,1
+2,Starship,Explorer,2020-12-09,1
+3,New Shepard,Launcher,2015-04-29,2
+4,Blue Moon,Lander,2023-05-15,2
+5,Perseverance,Explorer,2020-07-30,3
+6,Artemis I,Lander,2022-11-16,3
+7,Galileo,Satellite,1989-10-18,3
+8,Hubble,Space Telescope,1990-04-24,3
+9,Rosetta,Explorer,2004-03-02,4
